@@ -19,9 +19,9 @@ export default function Page(props) {
       </P>
       <H1>Demonstration video</H1>
       <P>Here’s a video showing the program.</P>
-      <Youtube id="EFR6lqPrKVo"/>
+      <Youtube id="EFR6lqPrKVo" />
       <H1>File</H1>
-      <Href>https://github.com/Do-it-myself/Hangman-with-Python</Href>
+      <Href>https://github.com/Chloe-Can-Code/Hangman-with-Python</Href>
     </PostTemp>
   );
 }

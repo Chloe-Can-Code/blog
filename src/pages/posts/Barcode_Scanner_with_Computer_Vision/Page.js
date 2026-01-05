@@ -33,7 +33,9 @@ export default function Page(props) {
       </P>{" "}
       <Youtube id="3nix_U5lI7w" />
       <H1>File</H1>
-      <Href>https://github.com/Do-it-myself/Barcode-Scanner-with-Computer-Vision</Href>
+      <Href>
+        https://github.com/Chloe-Can-Code/Barcode-Scanner-with-Computer-Vision
+      </Href>
     </PostTemp>
   );
 }

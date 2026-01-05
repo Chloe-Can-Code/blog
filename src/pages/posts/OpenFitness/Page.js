@@ -1,6 +1,14 @@
 import React from "react";
 
-import { PostTemp, P, H1, H2, Href, Img, Youtube } from "src/pages/posts/Element";
+import {
+  PostTemp,
+  P,
+  H1,
+  H2,
+  Href,
+  Img,
+  Youtube,
+} from "src/pages/posts/Element";
 
 export default function Page(props) {
   return (
@@ -176,7 +184,7 @@ export default function Page(props) {
       <Img {...props} image="Technologies.PNG" />
       <H1>File</H1>
       <P>React Native file:</P>
-      <Href>https://github.com/Do-it-myself/OpenFitness</Href>
+      <Href>https://github.com/Chloe-Can-Code/OpenFitness</Href>
     </PostTemp>
   );
 }

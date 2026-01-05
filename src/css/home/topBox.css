@@ -88,14 +88,14 @@
 .homeWide .topbox .line2 {
   font-family: "Inter-Bold";
   color: black;
-  font-size: calc(var(--topboxHeight) / 8);
+  font-size: calc(var(--topboxHeight) / 10);
   padding-bottom: calc(var(--topboxHeight) / 60);
 }
 
 .homeNarrow .topbox .line2 {
   font-family: "Inter-Bold";
   color: black;
-  font-size: calc(var(--topboxWidth) / 9);
+  font-size: calc(var(--topboxWidth) / 12.5);
   padding-bottom: calc(var(--topboxWidth) / 38);
 }
 

@@ -1,6 +1,14 @@
 import React from "react";
 
-import { PostTemp, P, H1, Href, OL, Img, Youtube } from "src/pages/posts/Element";
+import {
+  PostTemp,
+  P,
+  H1,
+  Href,
+  OL,
+  Img,
+  Youtube,
+} from "src/pages/posts/Element";
 
 export default function Page(props) {
   return (
@@ -120,7 +128,7 @@ export default function Page(props) {
       <P>And the demonstration video is as follows:</P>
       <Youtube id="_2RWrVb3b3I" />
       <H1>Files</H1>
-      <Href>https://github.com/Do-it-myself/Light-Sensor-Firmware</Href>
+      <Href>https://github.com/Chloe-Can-Code/Light-Sensor-Firmware</Href>
     </PostTemp>
   );
 }

@@ -1,6 +1,16 @@
 import React from "react";
 
-import { PostTemp, P, H1, H2, Href, OL, UL, Img, Youtube } from "src/pages/posts/Element";
+import {
+  PostTemp,
+  P,
+  H1,
+  H2,
+  Href,
+  OL,
+  UL,
+  Img,
+  Youtube,
+} from "src/pages/posts/Element";
 
 export default function Page(props) {
   return (
@@ -172,7 +182,7 @@ export default function Page(props) {
       <Youtube id="1_WU78MpiaA" />
       <H1>File</H1>
       <P>Arduino and KiCAD file:</P>
-      <Href>https://github.com/Do-it-myself/PCB-Keyboard-and-Mouse</Href>
+      <Href>https://github.com/Chloe-Can-Code/PCB-Keyboard-and-Mouse</Href>
     </PostTemp>
   );
 }

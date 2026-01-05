@@ -41,7 +41,7 @@ export const NarrowContext = createContext();
 
 export default function App() {
   const homeIsNarrow = useMediaQuery({ query: "(max-aspect-ratio: 4/5)" });
-  const navBarIsNarrow = useMediaQuery({ query: "(max-width: 390px)" });
+  const navBarIsNarrow = useMediaQuery({ query: "(max-width: 420px)" });
 
   return (
     <NarrowContext.Provider value={{ homeIsNarrow, navBarIsNarrow }}>

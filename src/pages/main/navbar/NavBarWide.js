@@ -8,7 +8,7 @@ export default function NavBar() {
         <div className="flexbox">
           <div className="title">
             <Link to="/" className="button">
-              Do it Myself
+              Chloe Can Code
             </Link>
           </div>
           <div className="item">

@@ -1,6 +1,16 @@
 import React from "react";
 
-import { PostTemp, P, H1, H2, Href, OL, UL, Img, Youtube } from "src/pages/posts/Element";
+import {
+  PostTemp,
+  P,
+  H1,
+  H2,
+  Href,
+  OL,
+  UL,
+  Img,
+  Youtube,
+} from "src/pages/posts/Element";
 
 export default function Page(props) {
   return (
@@ -249,7 +259,7 @@ export default function Page(props) {
         <li>1 instead of 3 wires could be used for the power supply</li>
       </UL>
       <H1>Files</H1>
-      <Href>https://github.com/Do-it-myself/Robotic-Infinity-Gauntlet</Href>
+      <Href>https://github.com/Chloe-Can-Code/Robotic-Infinity-Gauntlet</Href>
     </PostTemp>
   );
 }

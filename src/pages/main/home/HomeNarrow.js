@@ -5,7 +5,7 @@ import SubscribeWithContext from "src/pages/main/home/SubscribeWithContext";
 import Modal from "./Modal";
 import { HomeContext } from "src/pages/main/home//HomeWithContext";
 
-import RobotImage from "src/assets/images/robot.png"
+import RobotImage from "src/assets/images/robot.png";
 
 export default function Home() {
   const { message, postList, renderPost } = useContext(HomeContext);
@@ -18,7 +18,7 @@ export default function Home() {
           <div className="flexbox">
             <div className="intro">
               <div className="line1">Hi, welcome to</div>
-              <div className="line2">Do it Myself</div>
+              <div className="line2">Chloe Can Code</div>
               <div className="line3">
                 I’m Chloe, an engineer who enjoys creating software and hardware
                 projects
@@ -45,7 +45,7 @@ export default function Home() {
                 <FlatList list={postList} renderItem={renderPost} />
               </div>
             </div>
-            <SubscribeWithContext />
+            {/* <SubscribeWithContext /> */}
           </div>
         </div>
       </div>

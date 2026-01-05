@@ -1,6 +1,16 @@
 import React from "react";
 
-import { PostTemp, P, H1, H2, Href, UL, Img, Table, Youtube } from "src/pages/posts/Element";
+import {
+  PostTemp,
+  P,
+  H1,
+  H2,
+  Href,
+  UL,
+  Img,
+  Table,
+  Youtube,
+} from "src/pages/posts/Element";
 
 export default function Page(props) {
   return (
@@ -302,7 +312,7 @@ export default function Page(props) {
       </UL>
       <H1>File</H1>
       <P>SolidWorks modeling:</P>
-      <Href>https://github.com/Do-it-myself/KwickLine-Queue-Barrier</Href>
+      <Href>https://github.com/Chloe-Can-Code/KwickLine-Queue-Barrier</Href>
     </PostTemp>
   );
 }
