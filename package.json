@@ -20,7 +20,7 @@
     "uuid": "^9.0.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://do-it-myself.github.io/blog/",
+  "homepage": "https://chloe-can-code.github.io/blog/",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
