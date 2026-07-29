@@ -28,6 +28,8 @@ a.hrefembed:link,
 a.hrefembed:visited {
   color: var(--deepgray);
   text-decoration: none;
+  word-break: break-all;
+  overflow-wrap: anywhere;
 }
 
 .href a:hover,
