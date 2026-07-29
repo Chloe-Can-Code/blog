@@ -1,66 +1,74 @@
 [
-    {
-        "id": 7,
-        "title": "Gravity 4",
-        "dir": "/Gravity_4",
-        "summary": "Connect 4 with a twist",
-        "category": "software",
-        "date": "Aug 8, 2024"
-    },
-    {
-        "id": 6,
-        "title": "Robotic Infinity Gauntlet",
-        "dir": "/Robotic_Infinity_Gauntlet",
-        "summary": "A robot arm controlled with computer vision",
-        "category": "hardware",
-        "date": "Aug 20, 2022"
-    },
-    {
-        "id": 5,
-        "title": "Light Sensor Firmware",
-        "dir": "/Light_Sensor_Firmware",
-        "summary" : "A STM32-powered light sensor",
-        "category": "hardware",
-        "date": "Aug 20, 2022"
-    },
-    {
-        "id": 4,
-        "title": "PCB Keyboard & Mouse",
-        "dir": "/PCB_Keyboard_and_Mouse",
-        "summary" : "A simple Arduino HID device",
-        "category": "hardware",
-        "date": "July 18, 2022"
-    },
-    {
-        "id": 3,
-        "title": "OpenFitness",
-        "dir": "/OpenFitness",
-        "summary": "A gamified sports-based social network",
-        "category": "software",
-        "date": "May 18, 2022"
-    },
-    {
-        "id": 2,
-        "title": "KwickLine - Queue Barrier",
-        "dir": "/KwickLine_Queue_Barrier",
-        "summary" : "An adjustable, customisable queue barrier",
-        "category": "hardware",
-        "date": "Apr 3, 2022"
-    },
-    {
-        "id": 1,
-        "title": "Barcode Scanner with Computer Vision",
-        "dir": "/Barcode_Scanner_with_Computer_Vision",
-        "summary" : "A scanner powered by OpenCV & Pyzbar",
-        "category": "software",
-        "date": "Feb 27, 2022"
-    },
-    {
-        "id": 0,
-        "title": "Hangman with Python",
-        "dir": "/Hangman_with_Python",
-        "summary" : "A simple command-line hangman game",
-        "category": "software",
-        "date": "Feb 26, 2022"
-    }
+  {
+    "id": 8,
+    "title": "LogSim",
+    "dir": "/LogSim",
+    "summary": "A logic simulator software",
+    "category": "software",
+    "date": "Jul 29, 2026"
+  },
+  {
+    "id": 7,
+    "title": "Gravity 4",
+    "dir": "/Gravity_4",
+    "summary": "Connect 4 with a twist",
+    "category": "software",
+    "date": "Aug 8, 2024"
+  },
+  {
+    "id": 6,
+    "title": "Robotic Infinity Gauntlet",
+    "dir": "/Robotic_Infinity_Gauntlet",
+    "summary": "A robot arm controlled with computer vision",
+    "category": "hardware",
+    "date": "Aug 20, 2022"
+  },
+  {
+    "id": 5,
+    "title": "Light Sensor Firmware",
+    "dir": "/Light_Sensor_Firmware",
+    "summary": "A STM32-powered light sensor",
+    "category": "hardware",
+    "date": "Aug 20, 2022"
+  },
+  {
+    "id": 4,
+    "title": "PCB Keyboard & Mouse",
+    "dir": "/PCB_Keyboard_and_Mouse",
+    "summary": "A simple Arduino HID device",
+    "category": "hardware",
+    "date": "July 18, 2022"
+  },
+  {
+    "id": 3,
+    "title": "OpenFitness",
+    "dir": "/OpenFitness",
+    "summary": "A gamified sports-based social network",
+    "category": "software",
+    "date": "May 18, 2022"
+  },
+  {
+    "id": 2,
+    "title": "KwickLine - Queue Barrier",
+    "dir": "/KwickLine_Queue_Barrier",
+    "summary": "An adjustable, customisable queue barrier",
+    "category": "hardware",
+    "date": "Apr 3, 2022"
+  },
+  {
+    "id": 1,
+    "title": "Barcode Scanner with Computer Vision",
+    "dir": "/Barcode_Scanner_with_Computer_Vision",
+    "summary": "A scanner powered by OpenCV & Pyzbar",
+    "category": "software",
+    "date": "Feb 27, 2022"
+  },
+  {
+    "id": 0,
+    "title": "Hangman with Python",
+    "dir": "/Hangman_with_Python",
+    "summary": "A simple command-line hangman game",
+    "category": "software",
+    "date": "Feb 26, 2022"
+  }
 ]
