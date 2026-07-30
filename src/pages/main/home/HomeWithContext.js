@@ -19,7 +19,7 @@ const postList = [
   reversedJSON[7],
   reversedJSON[6],
   reversedJSON[3],
-  reversedJSON[4],
+  reversedJSON[9],
 ];
 
 export default function HomeWithContext() {

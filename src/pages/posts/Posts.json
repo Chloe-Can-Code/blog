@@ -1,5 +1,13 @@
 [
   {
+    "id": 9,
+    "title": "Crisps 8",
+    "dir": "/Crisps_8",
+    "summary": "A rapidly prototyped autonomous robot",
+    "category": "hardware",
+    "date": "Jul 30, 2026"
+  },
+  {
     "id": 8,
     "title": "LogSim",
     "dir": "/LogSim",
