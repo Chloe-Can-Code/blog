@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/blog/static/css/main.780142b2.css",
-    "main.js": "/blog/static/js/main.ceec2fc3.js",
-    "static/js/477.9f2248bb.chunk.js": "/blog/static/js/477.9f2248bb.chunk.js",
+    "main.js": "/blog/static/js/main.1534be0c.js",
+    "static/js/477.45671960.chunk.js": "/blog/static/js/477.45671960.chunk.js",
     "static/media/Wired.jpg": "/blog/static/media/Wired.c8aa6a9895ad6554fedf.jpg",
     "static/media/Serial.jpg": "/blog/static/media/Serial.983d46c4ec2cf43eb5ac.jpg",
     "static/media/OLED.jpg": "/blog/static/media/OLED.d49ef9b4ace71f9c2c18.jpg",
@@ -16,6 +16,7 @@
     "static/media/Perfboard_circuit.PNG": "/blog/static/media/Perfboard_circuit.f0ef63c93f69f2704117.PNG",
     "static/media/Variable_length.gif": "/blog/static/media/Variable_length.533d38efdd30edc36e1c.gif",
     "static/media/Wireless.jpg": "/blog/static/media/Wireless.0a5cd691cd8d1c5a8ac6.jpg",
+    "static/media/CAD.PNG": "/blog/static/media/CAD.0db038d1157bd312d7d6.PNG",
     "static/media/Perfboard.jpg": "/blog/static/media/Perfboard.d03ad60b54fce282dda1.jpg",
     "static/media/Assembly.jpg": "/blog/static/media/Assembly.8ae5bc6aa14e49106fe5.jpg",
     "static/media/Inter-Bold.ttf": "/blog/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
@@ -28,6 +29,7 @@
     "static/media/Aesthetic_solution.PNG": "/blog/static/media/Aesthetic_solution.5614234697f03a84b47a.PNG",
     "static/media/Using_KwickLine.PNG": "/blog/static/media/Using_KwickLine.8133dcdd7b598215d019.PNG",
     "static/media/Business_model.PNG": "/blog/static/media/Business_model.caa8335617e17827ab07.PNG",
+    "static/media/Code_Structure.JPG": "/blog/static/media/Code_Structure.434692adf08d486c432c.JPG",
     "static/media/Rough_Dimensions.PNG": "/blog/static/media/Rough_Dimensions.021dcc53a098f00d45b5.PNG",
     "static/media/Debug.jpg": "/blog/static/media/Debug.0df186b89f1560f80d1b.jpg",
     "static/media/Cafe_barrier.PNG": "/blog/static/media/Cafe_barrier.d8258858e61df758194b.PNG",
@@ -43,10 +45,12 @@
     "static/media/PCB_layout.PNG": "/blog/static/media/PCB_layout.5b28011a100a46eaea10.PNG",
     "static/media/Hand.jpg": "/blog/static/media/Hand.321f1e38f4a086582dd9.jpg",
     "static/media/Customizable.PNG": "/blog/static/media/Customizable.a778d58f218d1155fca7.PNG",
+    "static/media/Line_sensor.JPG": "/blog/static/media/Line_sensor.b98633a245feab461a93.JPG",
     "static/media/Lock.gif": "/blog/static/media/Lock.ea5e724549e97438f781.gif",
     "static/media/Whole_Assembly_Internal.PNG": "/blog/static/media/Whole_Assembly_Internal.c29410732d0937a222b6.PNG",
     "static/media/Rows_and_columns.PNG": "/blog/static/media/Rows_and_columns.fe2a4234adca2ef819f7.PNG",
     "static/media/Easy_banner_replacement_sketch.PNG": "/blog/static/media/Easy_banner_replacement_sketch.fe98d715824c9b265736.PNG",
+    "static/media/Arena.JPG": "/blog/static/media/Arena.5da424adf540be3d7f99.JPG",
     "static/media/CLI.PNG": "/blog/static/media/CLI.a1d6f748d44794851a9a.PNG",
     "static/media/loadingdots.gif": "/blog/static/media/loadingdots.4998fe187cd7dd8cd377.gif",
     "static/media/Technologies.PNG": "/blog/static/media/Technologies.04ae85a6e254649af68a.PNG",
@@ -82,11 +86,11 @@
     "static/media/Capture.PNG": "/blog/static/media/Capture.884c33636e0f3fdb6c93.PNG",
     "index.html": "/blog/index.html",
     "main.780142b2.css.map": "/blog/static/css/main.780142b2.css.map",
-    "main.ceec2fc3.js.map": "/blog/static/js/main.ceec2fc3.js.map",
-    "477.9f2248bb.chunk.js.map": "/blog/static/js/477.9f2248bb.chunk.js.map"
+    "main.1534be0c.js.map": "/blog/static/js/main.1534be0c.js.map",
+    "477.45671960.chunk.js.map": "/blog/static/js/477.45671960.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.780142b2.css",
-    "static/js/main.ceec2fc3.js"
+    "static/js/main.1534be0c.js"
   ]
 }
